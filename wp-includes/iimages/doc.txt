@@ -1,0 +1,6 @@
+bookshop-managers:
+bookshop-managers-620x384.jpg
+bookshop-managers-620x384@2x.jpg
+bookshop-managers-150x150.jpg
+bookshop-managers-1140x752.jpg
+bookshop-managers.jpg (1170x772)
